@@ -4,11 +4,11 @@
 It is not affiliated with, endorsed by, or connected to PhonePe, any bank, UPI service, NPCI, or any financial institution in any way.**
 ## **The app does not:**
 
-Process real money
-Connect to any real UPI or banking system
-Transfer actual funds
-Store any real payment credentials
-Interact with any live financial servers
+- **Process real money**
+- **Connect to any real UPI or banking system**
+- **Transfer actual funds**
+- **Store any real payment credentials**
+- **Interact with any live financial servers**
 
 All payment screens, success messages, transaction IDs, and animations shown inside the app are completely fake and simulated for fun.
 The developer of this app takes no responsibility for:

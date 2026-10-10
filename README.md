@@ -1,4 +1,4 @@
-Disclaimer
+### **Disclaimer**
 This application (PhonepayPrank) is developed strictly for entertainment, comedy, and prank purposes only.
 It is not affiliated with, endorsed by, or connected to PhonePe, any bank, UPI service, NPCI, or any financial institution in any way.
 The app does not:
